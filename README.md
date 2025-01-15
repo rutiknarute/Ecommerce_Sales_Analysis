@@ -10,17 +10,6 @@ This project analyzes eCommerce sales data to provide key insights that support 
 - **Product Performance:** Determine which product categories and subcategories generate the most profit.
 - **Payment Insights:** Understand customer preferences for payment modes (COD, Credit Card, EMI, etc.).
 
-## 🗂️ Project Structure
-```
-Ecommerce-Sales-Analysis/
-├── Datasets/
-│   ├── Orders.csv          # Contains order details (ID, date, customer, location)
-│   ├── Details.csv         # Contains sales details (amount, profit, category, payment mode)
-├── Dashboards/
-│   ├── SalesDashboard.pbix # Power BI file with dashboards & insights
-├── README.md               # Project documentation
-```
-
 
 ## 📌 Power BI Dashboard
 The **SalesDashboard.pbix** file includes:
