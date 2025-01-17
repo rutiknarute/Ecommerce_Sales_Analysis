@@ -39,5 +39,5 @@ For any questions or suggestions, reach out via GitHub or email.
 ---
 📌 **Author**: Rutik Narute 
 📧 **Email**: rutiknarute25@gmail.com  
-📍 **Location**: Los Angeles, India
+📍 **Location**: Los Angeles, United States
 
