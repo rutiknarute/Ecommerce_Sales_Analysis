@@ -1,4 +1,5 @@
 # Ecommerce Sales Analysis with Power BI
+![Dashboard]()
 
 ## 📌 Project Overview
 This project analyzes eCommerce sales data to provide key insights that support better decision-making for sales and marketing strategies. Using **Power BI**, we visualize trends related to revenue, profit, customer behavior, and product performance. The data includes order details, sales transactions, and payment methods.
